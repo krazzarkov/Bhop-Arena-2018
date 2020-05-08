@@ -1,7 +1,5 @@
-# Bhop-Arena-2018
-The goal of this project was to create a rough prototype arena shooter with multiplayer capabilities in which players could Bunny Hop (Bhop)
-to gain speed and rocket jump to gain height. This project uses the CPMPlayer script which was ported over from Quake 3 into Unity by
-WiggleWizard.
+# Bhop-Arena-2018 made in Unity 2018.4.19f1
+The goal of this project was to create a rough prototype arena shooter with multiplayer capabilities in which players could Bunny Hop (Bhop) to gain speed and rocket jump to gain height. This project uses the CPMPlayer script which was ported over from Quake 3 into Unity by WiggleWizard.
 
 https://github.com/WiggleWizard/quake3-movement-unity3d
 
