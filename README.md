@@ -16,3 +16,4 @@ To make rocket jumping work I created a rocket prefab that is shot from the rock
 creates particle effects and applies an explosion force to the player which allows them to rocket jump.
 
 ![Alt Text](https://media.giphy.com/media/Q79P4FkBEoXYQaO2XM/giphy.gif)
+ 
